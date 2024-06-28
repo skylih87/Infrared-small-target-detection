@@ -7,7 +7,7 @@
 ## Algorithm Introduction
 
 Infrared Small Target Detection Algorithm Using an Augmented Intensity and Density-Based Clustering 
-[Infrared Small Target Detection Algorithm Using an Augmented Intensity and Density-Based Clustering.pdf](https://github.com/user-attachments/files/16023247/Infrared.Small.Target.Detection.Algorithm.Using.an.Augmented.Intensity.and.Density-Based.Clustering.pdf)
+[Paper](https://github.com/user-attachments/files/16023247/Infrared.Small.Target.Detection.Algorithm.Using.an.Augmented.Intensity.and.Density-Based.Clustering.pdf)
 
 I has proposed a novel algorithm with clustering to achieve accurate single-frame infrared small target detection and develop an open-sourced infrared small target dataset (namely, SNU) in this paper. Experiments on both public and our self-developed datasets demonstrate the effectiveness of my method. The contribution of this paper are as follows:
 
