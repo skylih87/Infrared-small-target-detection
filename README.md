@@ -1,6 +1,6 @@
 # Infrared Small Target Detection Algorithm Using an Augmented Intensity and Density-Based Clustering
 
-# My paper has been accepted by `IEEE Transactions on Geosciene and Remote Sensing`. I will release more interesting works and applications on SIRST soon. Please keep following our repository.
+My paper has been accepted by `IEEE Transactions on Geosciene and Remote Sensing`. I will release more interesting works and applications on SIRST soon. Please keep following our repository.
 
 ![overall](https://github.com/skylih87/Infrared-small-target-detection/assets/133297940/4a9f919e-1284-4ac5-aedd-a6f61e45d4e8)
 
